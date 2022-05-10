@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Starting VizFit API"
+chmod 777 ./mvnw
+./mvnw spring-boot:run
